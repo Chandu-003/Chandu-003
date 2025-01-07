@@ -60,7 +60,7 @@ Welcome to my GitHub profile, where I showcase my passion for securing systems, 
 
 ## 🏆 Achievements
 - Top 10% TryHackMe users with extensive CTF experience.
-- Certified in **Google Cybersecurity Fundamentals** and **CISCO Cybersecurity Essentials**.
+- Certified in **Google Cybersecurity ** and **CISCO Cybersecurity Essentials**.
 - Contributor to **OWASP Projects** and member of **Null Hyderabad**.
 
 ---

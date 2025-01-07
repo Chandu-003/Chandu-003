@@ -1,6 +1,6 @@
 # Hi there, I'm Ganesh Chand Yasam! 👋
 
-## Cybersecurity Enthusiast | Threat Modeler | SOC Specialist | Penetration Tester |  CTF Player
+## Cybersecurity Enthusiast | Threat Modeler | SOC Specialist | Penetration Tester | CTF Player
 
 Welcome to my GitHub profile, where I showcase my passion for securing systems, solving cybersecurity challenges, and contributing to the community. From building robust threat modeling workflows to tackling intricate Capture the Flag (CTF) challenges, my work demonstrates my dedication to making the digital world safer.
 
